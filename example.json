@@ -46,5 +46,6 @@
     "action_create_sketch":"Create Sketch",
     "action_create_vault":"Create Location",
     "action_delete":"Delete",
-    "action_delete_asset":"Delete Item"
+    "action_delete_asset":"Delete Item", 
+    "adding_a_key": "testing"
 }
