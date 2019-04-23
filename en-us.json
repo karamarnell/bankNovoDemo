@@ -47,5 +47,8 @@
   "action_create_vault" : "Create Location",
   "action_delete" : "Delete",
   "action_delete_asset" : "Delete Item",
-  "newvalue" : "testing"
+  "newvalue" : "testing",
+  "newSTring" : "anotherValue",
+  "ZANE" : "sucks",
+  "KARA" : "alsosucks"
 }
