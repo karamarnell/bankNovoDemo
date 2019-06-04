@@ -26,7 +26,7 @@
   "action_change_condition" : "Change Condition",
   "action_change_currency" : "Change Currency",
   "action_change_disposition" : "Change Disposition",
-  "action_change_uppercase" : "CHANGE",
+  "action_change_uppercase" : "Change",
   "action_change_value" : "Change Value",
   "action_checklist" : "Checklist",
   "action_clear" : "Clear",
@@ -47,5 +47,5 @@
   "action_create_vault" : "Create Location",
   "action_delete" : "Delete",
   "action_delete_asset" : "Delete Item",
-  "newvalue" : "testing"
+  "adding_a_key" : "testing"
 }
